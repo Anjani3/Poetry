@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10sp"
+    tools:context=".update_poetry">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/update_poetry_toolbar"
+        android:layout_width="match_parent"
+        android:layout_marginTop="5sp"
+        android:layout_height="?attr/actionBarSize"
+        app:title="Update Poetry"
+
+        />
+
+    <EditText
+        android:id="@+id/update_poetry_data_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/edittext_bg_design"
+        android:hint="@string/update_poetry_data"
+        android:inputType="text"
+        android:minHeight="80sp"
+        android:layout_marginTop="6dp"
+        android:paddingStart="10sp"
+        android:paddingEnd="5sp" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/update_data_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="50sp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/btn_bg_design"
+        android:text="@string/Update" />
+
+
+</LinearLayout>

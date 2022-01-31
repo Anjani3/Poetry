@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Poetry</string>
+    <string name="you_are_the_start_of_the_week_or_the_end_of_it_and_according_to_the_beatles_you_creep_in_like_a_nun_you_re_the_second_full_day_the_kids_have_been_away_with_their_father_the_second_full_day_of_an_empty_house_sunday_i_ve_missed">You are the start of the week or the end of it, and according to The Beatles you creep in like a nun. You\'re the second full day the kids have been away with their father, the second full day of an empty house. Sunday, I\'ve missed...</string>
+    <string name="_15_jan_2022">15-jan-2022</string>
+    <string name="anjani_kumar">ANJANI KUMAR</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="add_property">Add Property</string>
+    <string name="add_poetry" />
+    <string name="poetry">Poetry</string>
+    <string name="add_poetryy">Add poetry</string>
+    <string name="write_poetry">Write Poetry</string>
+    <string name="Enter_poet_name" />
+    <string name="ppppp">Enter_poet_name</string>
+    <string name="submit">Submit</string>
+    <string name="addapi">addapi</string>
+    <string name="update_poetry_data">Update poetry data</string>
+    <string name="Update">Update</string>
+    <string name="write_your">Write your</string>
+    <string name="here">Here</string>
+</resources>
